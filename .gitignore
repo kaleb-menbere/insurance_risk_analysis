@@ -1,0 +1,35 @@
+# Data
+data/raw/
+data/interim/
+data/processed/
+*.csv
+*.parquet
+*.feather
+
+my_project_env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# DVC
+.dvc/
+.dvcignore
+
+# Virtual Environment
+venv/
+env/
