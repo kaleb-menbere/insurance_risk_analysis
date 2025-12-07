@@ -5,3 +5,5 @@ seaborn
 pytest
 scipy
 plotly
+dvc
+statsmodels
