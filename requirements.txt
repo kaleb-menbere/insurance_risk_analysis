@@ -1,9 +1,13 @@
 pandas
 numpy
 matplotlib
+ipykernel
 seaborn
 pytest
 scipy
 plotly
 dvc
 statsmodels
+scikit-learn
+xgboost
+shap
